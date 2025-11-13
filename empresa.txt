@@ -1,4 +1,4 @@
 SENAC CANOAS
 rua mathias velho,255
 bairro - centro cidade - CANOAS UF - RS
-pais - Brasil
+pais - Brasil - BR
